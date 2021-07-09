@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Text1Application {
-
-    public static void main(String[] args) {
-        SpringApplication.run(Text1Application.class, args);
+//测试
+    public static void main(String[] argss) {
+        SpringApplication.run(Text1Application.class, argss);
     }
 
 }
